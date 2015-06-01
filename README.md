@@ -1,1 +1,2 @@
-# spark-2.5-vagrant
+# demica-vagrant
+Vagrant machine for running Demica website.
