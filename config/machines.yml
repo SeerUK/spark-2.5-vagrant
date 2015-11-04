@@ -9,6 +9,9 @@ machines:
       host: "../../byng_systems@bitbucket.org/spark-2.5/"
       owner: www-data
       group: www-data
+    port_map:
+    - host: 4430
+      guest: 443
 
   sp_db:
     hostname: "sp_db"
